@@ -1,1 +1,1 @@
-BetterMotherFuckingWebsite
+BetterMotherFuckingWebsite created for Talan Academy projects
