@@ -3,7 +3,7 @@ Site web créé dans le cadre d'une formation en ligne avec Talan Academy.
 * IDE Visual Studio Code
 
 publié sur 
-www.ammarsassi.github.io 
+https://ammarsassi.github.io/
 
 
 # Contact
